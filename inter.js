@@ -159,13 +159,14 @@
 //a. For n = 10 the result will be 2,3,5,7
 
 
-for(i = 2; i<=10; i=i+1) {
-    if(i%2==1){
-        console.log(i)
-    }
-    else if (i == 2){
-        console.log(i)
-    }
-    
+//for(i = 2; i<=10; i=i+1) {
+ //   if(i%2==1){
+ //       console.log(i)
+ //   }
+ //   else if (i == 2){
+ //       console.log(i)
+ //   }
+//    
+//
+//}
 
-}
